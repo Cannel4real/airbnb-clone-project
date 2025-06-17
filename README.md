@@ -103,3 +103,48 @@ Quality design and development ensure a user-friendly, high-performing product.
 Rigorous testing and reliable deployment guarantee a smooth experience for end-users.
 
 A well-structured Agile approach promotes adaptability and continuous improvement.
+
+UI Component Patterns
+A consistent, reusable component system is essential for building a scalable and maintainable web application. Below are the core UI components planned for this project:
+
+# Planned Components
+1️ Navbar
+The Navbar will provide intuitive site-wide navigation and quick access to core features:
+
+Logo: Links back to the homepage.
+
+Search Bar: Allows users to search for properties by location and date.
+
+User Navigation: Includes sign in/out, profile access, and booking history.
+
+Responsive Menu: Adapts seamlessly to different screen sizes for optimal mobile usability.
+
+2️ Property Card
+Each property listing will be represented as a reusable Property Card component, designed for clarity and quick scanning:
+
+Property Image: Displays the main photo of the property.
+
+Basic Details: Shows the title, price per night, location, and user rating.
+
+Favorite Button: Allows users to save properties to a wishlist.
+
+Responsive Layout: Adjusts gracefully to fit grid or list views on various devices.
+
+3️ Footer
+The Footer component will appear on all pages to provide easy access to additional information:
+
+Site Links: Quick links to pages like About, Contact, Help Center, and Terms of Service.
+
+Company Information: Brief information about the platform.
+
+Social Media Links: Icons linking to the platform’s social channels.
+
+Copyright: Includes the company name and year.
+
+- Design Considerations
+All components will follow the defined Figma design system for consistent colors, typography, and spacing.
+
+Components will be modular and reusable across multiple pages.
+
+Responsive and accessible patterns will be prioritized to ensure usability on all devices and for all users.
+
