@@ -79,3 +79,27 @@ Boosts conversion rates: An easy-to-navigate, clear interface encourages users t
 Improves customer satisfaction: Clear layouts and fast, responsive interactions build trust and encourage repeat usage.
 
 Enhances accessibility: An inclusive design ensures that users with diverse needs can use the platform comfortably.
+
+# Project Roles and Responsibilities
+A successful project relies on well-defined roles and clear responsibilities. Below is an overview of each team role and how they contribute to delivering a high-quality AirBnB clone.
+
+Roles & Responsibilities
+- Project Manager =>	Oversees the entire project timeline and deliverables. Coordinates communication between team members, tracks progress, resolves conflicts, and ensures milestones are met on schedule.
+- Frontend Developers => Build and implement responsive UI components based on the Figma design. Ensure cross-browser compatibility and mobile-first design. Integrate frontend logic with backend APIs for a seamless user experience.
+- Backend Developers	=> Develop and maintain server-side logic, build robust RESTful APIs, manage database schemas, handle authentication and security, and ensure data integrity throughout the application.
+- Designers	=>Create wireframes, mockups, and prototypes in Figma. Define the design system including color palettes and typography. Ensure the final UI/UX aligns with usability and accessibility best practices.
+- QA/Testers	=>Develop and run test cases to validate functionality, performance, and security. Identify, report, and track bugs. Work closely with developers to ensure timely fixes and maintain high product quality.
+- DevOps Engineers	=> Set up and manage the deployment environment and CI/CD pipelines. Monitor servers, ensure uptime, handle backups and recovery, and optimize performance and scalability of the deployed application.
+- Product Owner	=> Defines the vision and requirements for the product. Prioritizes features and user stories, clarifies requirements to the development team, and ensures that the final deliverable aligns with stakeholder expectations.
+- Scrum Master =>	Facilitates the Agile process. Organizes and runs daily stand-ups, sprint planning, and retrospectives. Removes obstacles that may block the team’s progress and promotes a collaborative, efficient work environment.
+
+- How Roles Contribute to Success
+Each role is crucial to achieving project goals:
+
+Clear leadership and communication keep the team aligned and focused.
+
+Quality design and development ensure a user-friendly, high-performing product.
+
+Rigorous testing and reliable deployment guarantee a smooth experience for end-users.
+
+A well-structured Agile approach promotes adaptability and continuous improvement.
